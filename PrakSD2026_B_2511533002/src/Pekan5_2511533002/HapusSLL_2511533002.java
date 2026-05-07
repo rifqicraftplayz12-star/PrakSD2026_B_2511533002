@@ -20,10 +20,10 @@ public class HapusSLL_2511533002 {
 			}
 			// jika list satu node, hapus node dan return null
 			if (head_3002.next_3002 == null) {
+				// temukan node terakhir ke d+ua
 				return null;
 			}
 			
-			// temukan node terakhir ke dua
 			NodeSLL_2511533002 secondLast_3002= head_3002;
 			while (secondLast_3002.next_3002.next_3002 != null) {
 				secondLast_3002 = secondLast_3002.next_3002;
@@ -97,5 +97,5 @@ public class HapusSLL_2511533002 {
 				System.out.println("List setelah node 2 di hapus : ");
 				printList_3002(head_3002);
 			}
+			
 	}
-
