@@ -126,6 +126,6 @@ public class KendaraanDriver_2511533002 {
                     System.out.println("Pilihan tidak valid!");
             }
         } while (pilihan_3002 != 6);
-        input_3002.close();
+        input_3002.close();//
     }
 }

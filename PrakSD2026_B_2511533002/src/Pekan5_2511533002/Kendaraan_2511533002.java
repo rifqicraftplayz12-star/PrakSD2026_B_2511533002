@@ -20,5 +20,5 @@ public class Kendaraan_2511533002 {
     public void setNamaPemilik_3002(String nama_3002) { this.namaPemilik_3002 = nama_3002; }
     public void setJenisKendaraan_3002(String jenis_3002) { this.jenisKendaraan_3002 = jenis_3002; }
     public void setNomorAntrean_3002(int antrean_3002) { this.nomorAntrean_3002 = antrean_3002; }
-    public void setNext_3002(Kendaraan_2511533002 next_3002) { this.next_3002 = next_3002; }
+    public void setNext_3002(Kendaraan_2511533002 next_3002) { this.next_3002 = next_3002; }//
 }
