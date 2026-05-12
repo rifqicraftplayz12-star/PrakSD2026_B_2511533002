@@ -96,5 +96,5 @@ public class HapusDLL_2511533002 {
 		head_3002 = delPos_2511533002(head_3002, 2);
 		
 		printList_2511533002(head_3002);
-	}
+	}//
 }

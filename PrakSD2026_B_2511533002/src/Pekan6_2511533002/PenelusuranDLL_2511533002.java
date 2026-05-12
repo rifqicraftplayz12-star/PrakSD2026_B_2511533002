@@ -45,5 +45,5 @@ public class PenelusuranDLL_2511533002 {
 			
 			System.out.println("Penelusuran mundur : ");
 			backwardTraversal_2511533002(third_3002);
-		}
+		}//
 }
